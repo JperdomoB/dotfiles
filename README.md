@@ -1,4 +1,4 @@
-# Mario's dotfiles
+# Jesus's dotfiles
 
 ![](https://cloud.githubusercontent.com/assets/3719969/14582971/23fa4a0e-040c-11e6-93d2-1ce8d9d1951c.png)
 
